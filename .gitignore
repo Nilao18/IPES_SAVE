@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.raw
+*.mp4
+*.TMP
+venv/
+__pycache__/
+maps/
